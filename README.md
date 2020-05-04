@@ -16,7 +16,10 @@ This Project is an experimental React Web App to learn about React. It lets you 
 - State Management with Redux
 - Redux Action, Reducer, Store
 - Provider and connect
-- Middleware & redux-logger
+- Middleware 
+- redux-logger 
+- Asynchronous Actions with redux-thunk
+
 
 
 
