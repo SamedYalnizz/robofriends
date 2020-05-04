@@ -12,6 +12,13 @@ This Project is an experimental React Web App to learn about React. It lets you 
 - Virtual DOM
 - Ecosystem & Syntax of React
 - Error Boundries
+- Flux Pattern
+- State Management with Redux
+- Redux Action, Reducer, Store
+- Provider and connect
+- Middleware & redux-logger
+
+
 
 
 # Screenshot
