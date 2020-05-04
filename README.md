@@ -10,7 +10,8 @@ This Project is an experimental React Web App to learn about React. It lets you 
 - Props & State 
 - Components & Containers
 - Virtual DOM
-- Ecosystem of React
+- Ecosystem & Syntax of React
+- Error Boundries
 
 
 # Screenshot
