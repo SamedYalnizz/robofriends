@@ -12,6 +12,8 @@ This Project is an experimental React Web App to learn about React. It lets you 
 - Virtual DOM
 - Ecosystem of React
 
+
+# Screenshot
 ![Screenshot](RoboFriends.png)
 
 
